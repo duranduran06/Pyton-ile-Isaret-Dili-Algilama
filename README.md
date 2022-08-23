@@ -1,2 +1,1 @@
-# Proje2
-180205065-DURAN-ERDEMİR
+# Pyton İle İşaret Dili Algılama
